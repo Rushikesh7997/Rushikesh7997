@@ -1,7 +1,7 @@
 <h1>Hii</h1>
 <p>I am rishi</p>
 
-## Glad to see you here! ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=aadityaneve.Clone-Pluralsight) [![GitHub followers](https://img.shields.io/github/followers/aadityaneve.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/aadityaneve?tab=followers)
+## Glad to see you here! ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Rushikesh7997.Clone-Pluralsight) [![GitHub followers](https://img.shields.io/github/followers/Rushikesh7997.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Rushikesh7997?tab=followers)
 
 I am a Full-Stack Web Developer and I love Programming and traveling.
 
