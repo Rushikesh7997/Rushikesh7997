@@ -1,5 +1,11 @@
 <h1>Hii</h1>
 <p>I am rishi</p>
+
+## Glad to see you here! ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=aadityaneve.Clone-Pluralsight) [![GitHub followers](https://img.shields.io/github/followers/aadityaneve.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/aadityaneve?tab=followers)
+
+I am a Full-Stack Web Developer and I love Programming and traveling.
+
+
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
