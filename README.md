@@ -1,9 +1,26 @@
-<h1>Hii</h1>
-<p>I am rishi</p>
+<div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+</div>
+
+
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="33"> there, I'm <span style="color: #447ED5">[Rushikesh Pardhikar!](https://aadityaneve.github.io/Portfolio)</span><img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="33">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/rushikesh-pardhikar) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rushikeshpardh7?s=09) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aadityaneve)
 
 ## Glad to see you here! ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Rushikesh7997.Clone-Pluralsight) [![GitHub followers](https://img.shields.io/github/followers/Rushikesh7997.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Rushikesh7997?tab=followers)
 
-I am a Full-Stack Web Developer and I love Programming and traveling.
+
+
+ <p>
+    <strong>
+        I am a Full-Stack Web Developer and I love Programming and traveling.
+        <br><br>
+        Full Stack Web Developer, MERN stack developer, Problem Solver, Front-End Engineer, and Open-Source Enthusiast.<br><br>
+        I specilize vary experienced in building React applications with Redux and dedploying them.I also in MERN stack. I have proficient knowladge about building RESTful api with CRUD controllers in Express.js and Node.js.  Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
+        I am passionate about learning React and Redux, all Front-End Technologies, MongoDB, Node, , Heroku, and Redis.<br><br>
+        Detailed-oriented, responsible, and committed developer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
+    </strong>
+</p>
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
@@ -29,9 +46,7 @@ I am a Full-Stack Web Developer and I love Programming and traveling.
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
- <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
-</div>
+ 
 
 
  <div align=center>
@@ -53,11 +68,6 @@ I am a Full-Stack Web Developer and I love Programming and traveling.
 [![Badri Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rushikesh7997&theme=react-dark)](https://github.com/MrBlueBird2/github-readme-activity-graph)
 
 
- <p>
-    <strong>
-        Full Stack Web Developer, MERN stack developer, Problem Solver, Front-End Engineer, and Open-Source Enthusiast.<br><br>
-        I specilize in MERN stack. I have proficient knowladge about building RESTful api with CRUD controllers in Express.js and Node.js. I also vary experienced in building React applications with Redux and dedploying them. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
-        I am passionate about learning React and Redux, all Front-End Technologies, Figma, MongoDB, Node, , Heroku, and Redis.<br><br>
-        Detailed-oriented, responsible, and committed developer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
-    </strong>
-</p>
+
+
+
