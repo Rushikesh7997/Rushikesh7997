@@ -20,6 +20,7 @@
 -⚡ Self and quick learner, self-motivated, and social.<br>
 - 📫 You can reach out to me directly via <a href="https://in.linkedin.com/in/rushikesh-pardhikar">LinkedIn</a> or can put a <a href="mailto:pardhikar26@gmail.com">mail</a>
 <br>
+<br>
 
 <p>
     <strong>
