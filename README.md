@@ -3,25 +3,29 @@
 </div>
 
 
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="33"> there, I'm <span style="color: #447ED5">[Rushikesh Pardhikar!](https://aadityaneve.github.io/Portfolio)</span><img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="33">
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="33"> there, I'm <span style="color: #447ED5">[Rushikesh Pardhikar](https://aadityaneve.github.io/Portfolio)</span><img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="33">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/rushikesh-pardhikar) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rushikeshpardh7?s=09) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/rushikesh-pardhikar) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rushikeshpardh7?s=09) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/me/stories/public)
 
 ## Glad to see you here! ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Rushikesh7997.Clone-Pluralsight) [![GitHub followers](https://img.shields.io/github/followers/Rushikesh7997.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Rushikesh7997?tab=followers)
 
 
 
- <p>
+<h3>About me</h1>
+- 🔭 I am a Full-Stack Web Developer and I love Programming and traveling.<br>
+- 🌱 Full Stack Web Developer, MERN stack developer, Problem Solver, Front-End Engineer, and Open-Source Enthusiast.<br>
+- 👨‍💻 I am passionate about learning React and Redux, all Front-End Technologies, MongoDB, Node, , Heroku, and Redis.<br>
+- 👯 I’m looking to collaborate on real products while working for an organisation.<br>
+- 💬 Ask me about Javascript , Frontend, or MERN Stack i would love to help.<br>
+-⚡ Self and quick learner, self-motivated, and social.<br>
+- 📫 You can reach out to me directly via <a href="https://in.linkedin.com/in/rushikesh-pardhikar">LinkedIn</a> or can put a <a href="mailto:pardhikar26@gmail.com">mail</a>
+<br>
+
+<p>
     <strong>
-        I am a Full-Stack Web Developer and I love Programming and traveling.
-        <br><br>
-        Full Stack Web Developer, MERN stack developer, Problem Solver, Front-End Engineer, and Open-Source Enthusiast.<br><br>
-        I specilize vary experienced in building React applications with Redux and dedploying them.I also in MERN stack. I have proficient knowladge about building RESTful api with CRUD controllers in Express.js and Node.js.  Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
-        I am passionate about learning React and Redux, all Front-End Technologies, MongoDB, Node, , Heroku, and Redis.<br><br>
-        Detailed-oriented, responsible, and committed developer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
+        Here is the link of my personal portfolio https://rajp62.github.io/Portfolio/.
     </strong>
 </p>
-
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
@@ -51,9 +55,9 @@
 
  <div align=center>
         <h1>Contribution Activity</h1>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushikesh7997&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark"><br>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushikesh7997&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark"><br><br>
         <img src="https://github-readme-stats.vercel.app/api?username=Rushikesh7997&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
-        <br>
+        <br><br>
         <!--
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabh-s1&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
         <br>
