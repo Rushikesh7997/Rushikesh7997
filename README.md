@@ -59,7 +59,7 @@
 </div>
 
 #### Contribution Graph
-[![Badri Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rushikesh7997&theme=react-dark)](https://github.com/MrBlueBird2/github-readme-activity-graph)
+[![Rushikesh Pardhikar github activity graph](https://activity-graph.herokuapp.com/graph?username=Rushikesh7997&theme=react-dark)](https://github.com/MrBlueBird2/github-readme-activity-graph)
 
 
 
