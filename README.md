@@ -54,18 +54,7 @@
            -->
         <br>
         <br>
-        ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=raajaryan&hide_title=true&hide_border=true&langs_count=7&bg_color=1A1B27&text_color=fff&title_color=79ff97&icon_color=777&line_height=27)
-
-
-
-        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rushikesh7997&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Rushikesh" /></p>
         
-        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rushikesh7997&show_icons=true&locale=en&theme=tokyonight" alt="Rushikesh" /></p>
-        
-        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rushikesh7997&theme=tokyonight" alt="Rushikesh" /></p>
-        
-        
-        <p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=Rushikesh7997&limit=5&theme=dark&combine_all_yearly_contributions=true" /></p>
 
 
     </div>
