@@ -54,6 +54,17 @@
            -->
         <br>
         <br>
+
+        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rushikesh7997&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Rushikesh" /></p>
+        
+        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rushikesh7997&show_icons=true&locale=en&theme=tokyonight" alt="Rushikesh" /></p>
+        
+        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rushikesh7997&theme=tokyonight" alt="Rushikesh" /></p>
+        
+        
+        <p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=Rushikesh7997&limit=5&theme=dark&combine_all_yearly_contributions=true" /></p>
+
+
     </div>
 </div>
  <!--
